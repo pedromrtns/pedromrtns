@@ -1,7 +1,17 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on back-end and database
-- 🌱 I’m currently learning Python e JavaScript
+
+Certainly! Here's a more professional and interactive version in English:
+
+Hello there! 👋
+
+I'm a developer primarily focused on back-end and database technologies. Currently, I'm deeply immersed in projects aimed at crafting robust and scalable systems.
+
+🔭 Right now, my efforts are centered around enhancing my skills in back-end development, ensuring that my applications are efficient and secure.
+
+🌱 Additionally, I'm dedicating time to advancing my knowledge in Python and JavaScript, two pivotal languages in the programming world that have been instrumental to my professional growth.
+
+If you have any suggestions or exciting opportunities in the software development realm, I'd love to hear more about them! Let's build something awesome together. 🚀
 
 ## 
 - 📫 How to reach me:
