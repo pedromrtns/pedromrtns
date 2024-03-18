@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-Certainly! Here's a more professional and interactive version in English:
-
-Hello there! 👋
-
 I'm a developer primarily focused on back-end and database technologies. Currently, I'm deeply immersed in projects aimed at crafting robust and scalable systems.
 
 🔭 Right now, my efforts are centered around enhancing my skills in back-end development, ensuring that my applications are efficient and secure.
