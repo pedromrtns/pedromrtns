@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a developer primarily focused on back-end and database technologies. Currently, I'm deeply immersed in projects aimed at crafting robust and scalable systems.
+Sou Analista de Sistemas com foco em desenvolvimento back-end e banco de dados. Trabalho com diversas tecnologias, sempre buscando desenvolver sistemas robustos, escaláveis e de alta performance.
 
-🔭 Right now, my efforts are centered around enhancing my skills in back-end development, ensuring that my applications are efficient and secure.
+🔧 Atualmente, estou aprofundando meus conhecimentos em Python, JavaScript e nas melhores práticas de arquitetura de sistemas, com foco em performance, segurança e manutenção eficiente.
 
-🌱 Additionally, I'm dedicating time to advancing my knowledge in Python and JavaScript, two pivotal languages in the programming world that have been instrumental to my professional growth.
+🚀 Sou apaixonado por resolver problemas complexos, otimizar processos e criar soluções que realmente gerem valor.
 
-If you have any suggestions or exciting opportunities in the software development realm, I'd love to hear more about them! Let's build something awesome together. 🚀
+💡 Estou aberto a trocar ideias, colaborar em projetos desafiadores ou até mesmo conversar sobre novas oportunidades na área de desenvolvimento. 
 
 ### 🚀 Tecnologias e Ferramentas:
 
